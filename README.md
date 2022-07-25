@@ -1,1 +1,2 @@
-# SQL-to-Pandas
+# SQL-to-Pandas 
+ Trial and error
